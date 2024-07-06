@@ -1,0 +1,1 @@
+list freya jkt48
