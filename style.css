@@ -3,9 +3,9 @@
 body {
   filter: saturate(5px);
   background-image: url('https://img.freepik.com/free-photo/ultra-detailed-nebula-abstract-wallpaper-4_1562-749.jpg?t=st=1720261595~exp=1720265195~hmac=fa38cdbd69d3e66df53bef3e7c7a40ff708068c7cf4c8d973a0046e652e2eb36&w=1480');
-  height: 150vh;
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 .head {
@@ -85,6 +85,13 @@ body {
   font-family: Consolas;
 }
 
+.btn-1, .btn-2, .btn-3, .btn-4, .btn-5 {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Consolas;
+}
+
 .btn-4{
   padding: 5px 138px;
   background-color: transparent;
@@ -97,7 +104,7 @@ body {
 .btn-5 {
   padding: 5px 138px;
   background-color: transparent;
-  margin-left: -136px;
+  margin-left: -145px;
   margin-top: 5px;
   border-radius: 20px;
   box-shadow: 0 0 10px white;
